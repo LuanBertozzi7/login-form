@@ -1,0 +1,9 @@
+@import url(styles.css);
+
+/* arquivo destinado apenas a variaveis */
+:root {
+    --main-font: "Madimi One" sans-serif;
+    --main-color: #fff;
+    --black-shadow: rgba(0, 0, 0, .2); 
+    --gray: rgba(255, 255, 255, .2);
+}   
