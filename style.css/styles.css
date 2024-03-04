@@ -18,6 +18,9 @@ body {
     background-size: cover;
     background-position: center;
 }
+strong {
+    color: rgb(187, 108, 240);
+}
 #container {
     width: 420px;
     background: transparent;
