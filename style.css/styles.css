@@ -14,14 +14,14 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(/images/desktop.jpg) no-repeat;
+    background: url(images/desktop.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 strong {
     color: rgb(187, 108, 240);
 }
-#container {
+#container {            
     width: 420px;
     background: transparent;
     border: 2px solid var(--gray);
