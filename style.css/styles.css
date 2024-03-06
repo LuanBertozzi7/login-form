@@ -28,6 +28,7 @@ strong {
     backdrop-filter: blur(20px);
     box-shadow: 0 0 10px var(--black-shadow);
     color: var(--main-color);
+    animation: shadow_style 5s ease-in-out infinite;
     border-radius: 10px;
     padding: 30px 40px;
 }
