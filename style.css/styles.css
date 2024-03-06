@@ -1,7 +1,7 @@
 /* Import */
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
 @import url(variables.css);
-
+@import url(animations.css);
 
 * {
     margin: 0;
